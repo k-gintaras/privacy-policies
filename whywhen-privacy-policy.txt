@@ -1,0 +1,74 @@
+WhyWhen Privacy Policy 
+Last modified 2020-10-13
+
+This document describes what data is or may be collected and how it is or may be used.
+
+	This privacy policy governs your use of the software application WhyWhen (“app”) for mobile devices that was created by IdeaTheImage. 
+	The app is a text based game that requires you to answer set of questions "when, where, who, with who, did what" and mixes multiple user answers to make a funny story. 
+	Answers are stored on firebase server which is only accessible through the app, unless reverse engineered. 
+
+
+1. What kind of data is collected by the app.
+
+	The app's aim is to never collect any personal data or anything that could easily identify you.
+	For example, there is no need for your email or any contact details.
+	Your non-personal data will be used to improve the app.
+	Non-personal data is the data you enter into inputs answering questions ("When, Where, Who, With Who, Did What), 
+	which is assumed to be abstract, but has the possibility to be personal if you make it so intentionally.
+
+
+1.1 How is data collected.
+
+	Each time you create or join game, unique random generated game key is submitted to WhyWhen server.
+	Each time you finish game with your answers to questions, 
+	these are submitted to WhyWhen server as data related to randomly generated unique user key and game key.
+	Example data entry: {randomlyUniquelyGeneratedUserKey, randomlyUniquelyGeneratedGameKey, answers}.
+	Whywhen server is only accessible through the app and it is not public, unless the app is reverse engineered.
+
+
+2. What WhyWhen shares.
+
+	WhyWhen does not collect or share your personal information with companies, organisations and individuals outside or inside of WhyWhen. 
+	We might in future share non-personal data with public, 
+	to improve the app or share that data with organizations or companies that have good intentions.
+
+
+2.1 Children
+
+	We do not use the app to knowingly solicit data from or market to children under the age of 13. 
+	If a parent or guardian becomes aware that his or her child has provided us with information without their consent, 
+	they should contact us at ideatheimage.soft@gmail.com. 
+	We will delete such information from our files within a reasonable time.
+
+
+2.2 What are my opt-out rights?
+
+	You can stop all collection of information by the app easily by uninstalling the app. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+
+
+2.3 Data Retention Policy, Managing Your Information
+
+	We will retain User Provided data for as long as you use the app and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months or more and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the app, please contact us at ideatheimage.soft@gmail.com and we will respond in a reasonable time.
+
+
+2.4 Real time location information of the device?
+	The app does not collect precise or any information about the location of your mobile device. 
+
+
+3. Information security.
+
+	Because the app does not collect any personal information, its data security is mostly concerned about data being correct and unmodified by the outside.
+	If you lose control of your phone, it is possible to use the app to communicate with other users that have the app and a game key associated with it, but that would be difficult, because they would need to know the key.
+
+	For example, when you join a game or complete a story, it can be broadcast to others by sharing the game key.
+	Sensitive data could be intentionally entered into question answers and then broadcast to users that have the app and are joined to the same game.
+	Anyone who knows the game key can join game and may post unwanted text that could be broadcast to all users joined to that game.
+
+	Therefore please treat the game key with care, do not share with those you don't want to play with, treat it as if it was a password for your private group.
+
+
+4. When this Privacy Policy applies
+
+	The app's Privacy Policy may change from time to time. For example, Idea The Image might improve security in the future. 
+  We will not reduce your rights under this Privacy Policy without your explicit consent. 
+  We will post any Privacy Policy changes on this page and on our website currently on 
