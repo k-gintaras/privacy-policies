@@ -70,5 +70,6 @@ This document describes what data is or may be collected and how it is or may be
 4. When this Privacy Policy applies
 
 	The app's Privacy Policy may change from time to time. For example, Idea The Image might improve security in the future. 
-  We will not reduce your rights under this Privacy Policy without your explicit consent. 
-  We will post any Privacy Policy changes on this page and on our website currently on 
+  	We will not reduce your rights under this Privacy Policy without your explicit consent. 
+  	We will post any Privacy Policy changes on this page and on our website currently on 
+	https://raw.githubusercontent.com/k-gintaras/privacy-policies/main/whywhen-privacy-policy.txt
